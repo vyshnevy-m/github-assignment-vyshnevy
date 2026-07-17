@@ -4,3 +4,7 @@ We are also having class regarding data base
 There is lot of assignments given to us 
 trying to complete them in time 
 I really feel that the coding is tough job but trying to make myself better and feel more intrested in the coding!!!!!
+
+
+today i learnt how to create commits and track changes using Git.
+now i can use git hub to store my projects online
